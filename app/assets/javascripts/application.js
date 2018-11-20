@@ -248,6 +248,4 @@ $(document).ready(function () {
 
           })(jQuery);
 
-
-
 });
