@@ -1,0 +1,19 @@
+.category_title {
+    
+    border-style   : double;
+    border-color   : black;
+    list-style-type: none;
+}
+
+#tabs {
+        display        : flex;
+        flex-direction : row;
+        justify-content: center;
+        width          : 100%;
+}
+
+.container .category_content {
+            display       : flex;
+            flex-direction: column;
+        }
+
