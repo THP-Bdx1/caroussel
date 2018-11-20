@@ -1,24 +1,28 @@
-# README
+# THE HACKING PROJECT
+![THP-BDX-LOGO](http://image.noelshack.com/fichiers/2018/45/1/1541412703-thpbdx1.png)
+---
+# THE PROJECT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Le lien du projet](https://???????????????.herokuapp.com/)
 
-Things you may want to cover:
+---
+## EXPLICATIONS
 
-* Ruby version
+Pas d'explications.
 
-* System dependencies
 
-* Configuration
+## EQUIPE
 
-* Database creation
+### François FLOUS
 
-* Database initialization
 
-* How to run the test suite
+### Paul GUERIN
 
-* Services (job queues, cache servers, search engines, etc.)
+### William HOREL
 
-* Deployment instructions
 
-* ...
+### Valérian MICHELOT
+
+
+### David RANGEARD
+
