@@ -9,7 +9,11 @@
 ## EXPLICATIONS
 
 N'oublie pas le "db:create", "db:migrate", et "db:seed" des familles si tu le lances en localhost !
-Sinon enjoy le site, il est magnifique si ta passion c'est les caroussels (et que tu es une personne plutôt étrange) genre elle ![Strange](https://media.giphy.com/media/4NrIV7ECIl6IG0OukS/giphy.gif) ou elle ![carou](https://media.giphy.com/media/EsLPGRncATA0E/giphy.gif)
+Sinon enjoy le site, il est magnifique si ta passion c'est les caroussels (et que tu es une personne plutôt étrange) 
+genre elle
+![Strange](https://media.giphy.com/media/4NrIV7ECIl6IG0OukS/giphy.gif) 
+ou elle
+![carou](https://media.giphy.com/media/EsLPGRncATA0E/giphy.gif)
 
 
 ## EQUIPE
